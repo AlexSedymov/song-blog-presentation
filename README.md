@@ -1,7 +1,7 @@
 # Song blog presentation links
 
 
-### Links and other things for workshop on March 17 2023
+### Links for the workshop on March 17 2023
 
 #### NEXT.js The React Framework for the Web:
 * https://nextjs.org/docs

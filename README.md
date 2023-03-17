@@ -16,7 +16,7 @@
 * starter zip: 
   * icloud: https://bit.ly/3yJMW8H
 * song-blog-advanced-functionality zip: 
-  * icloud: https://bit.ly/3JsUhOW
+  * icloud: https://bit.ly/3JOynHx
 
 #### Install node and Yarn:
 * NodeJs: https://nodejs.org/en/

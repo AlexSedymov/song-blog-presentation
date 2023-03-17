@@ -1,7 +1,7 @@
 # Song blog presentation links
 
 
-### Links for the workshop on March 17 2023
+### Links for the workshop on March 17, 2023
 
 #### NEXT.js The React Framework for the Web:
 * https://nextjs.org/docs
@@ -14,13 +14,15 @@
 #### Code source for each step
 *  https://github.com/AlexSedymov/song-blog.git
 * starter zip: 
-*   accenture onedrive: https://myoffice.accenture.com/:u:/g/personal/aliaksandr_siadymau_accenture_com/Ec5jN0ba7J9IgPzWmVJWJ-kB0arYlIo1UpD8FPl-xH3jMw?e=cOLTyG
-*   song-blog-advanced-functionality zip: 
-*   accenture onedrive: https://myoffice.accenture.com/:u:/g/personal/aliaksandr_siadymau_accenture_com/ESnlSlybVt9KgpHcXQjaN1kBlQ3Xvy-CkV2AHt-bIhQyYg?e=LytNvk
+  * accenture onedrive: https://bit.ly/42jrhlm
+  * icloud: https://bit.ly/3Tv8xLS
+* song-blog-advanced-functionality zip: 
+  * accenture onedrive: https://bit.ly/3Z0AhJ7
+  * icloud: https://bit.ly/3JsUhOW
 
 ### Install node and Yarn:
 * NodeJs: https://nodejs.org/en/
-* Node backup: https://myoffice.accenture.com/:u:/g/personal/aliaksandr_siadymau_accenture_com/EfiG7206ZytMlcmw6EHGvSIBq5jxKsCV2gLbMu7qB1UFBQ?e=mQaVgZ
+* Node backup: https://bit.ly/3ldNil6
 * Yarn install: ```npm install --global yarn```
 ### Hands-on MD and MDX:
 * GitHub example of MD page: https://github.com/GetStream/stream-chat-swift

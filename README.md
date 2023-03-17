@@ -27,6 +27,7 @@
 ### Hands-on MD and MDX:
 * GitHub example of MD page: https://github.com/GetStream/stream-chat-swift
 * Another markdown doc/example: https://markdown-it.github.io/
+* NextJs + Mdx + Nextra themes = https://nextra.site/
 
 ### Hands-on NextJs:
 * Using MDx: https://nextjs.org/docs/advanced-features/using-mdx

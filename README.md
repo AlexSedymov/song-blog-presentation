@@ -14,10 +14,8 @@
 #### Code source for each step
 *  https://github.com/AlexSedymov/song-blog.git
 * starter zip: 
-  * accenture onedrive: https://bit.ly/42jrhlm
-  * icloud: https://bit.ly/3Tv8xLS
+  * icloud: https://bit.ly/3yJMW8H
 * song-blog-advanced-functionality zip: 
-  * accenture onedrive: https://bit.ly/3Z0AhJ7
   * icloud: https://bit.ly/3JsUhOW
 
 ### Install node and Yarn:

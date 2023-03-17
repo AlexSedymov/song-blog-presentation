@@ -16,7 +16,7 @@
 * starter zip: 
 *   accenture onedrive: https://myoffice.accenture.com/:u:/g/personal/aliaksandr_siadymau_accenture_com/Ec5jN0ba7J9IgPzWmVJWJ-kB0arYlIo1UpD8FPl-xH3jMw?e=cOLTyG
 *   song-blog-advanced-functionality zip: 
-*     accenture onedrive: https://myoffice.accenture.com/:u:/g/personal/aliaksandr_siadymau_accenture_com/ESnlSlybVt9KgpHcXQjaN1kBlQ3Xvy-CkV2AHt-bIhQyYg?e=LytNvk
+*   accenture onedrive: https://myoffice.accenture.com/:u:/g/personal/aliaksandr_siadymau_accenture_com/ESnlSlybVt9KgpHcXQjaN1kBlQ3Xvy-CkV2AHt-bIhQyYg?e=LytNvk
 
 ### Install node and Yarn:
 * NodeJs: https://nodejs.org/en/

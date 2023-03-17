@@ -24,6 +24,8 @@
 * NodeJs: https://nodejs.org/en/
 * Node backup: https://bit.ly/3ldNil6
 * Yarn install: ```npm install --global yarn```
+* Install Visual Studio Code: https://code.visualstudio.com/
+
 ### Hands-on MD and MDX:
 * GitHub example of MD page: https://github.com/GetStream/stream-chat-swift
 * Another markdown doc/example: https://markdown-it.github.io/
